@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm currently working on a hotel booking app for rooms reservations.
+I'm currently learning blockchain architecture
+I'm looking to collaborate on open source projects
+Ask me about blockchain, NFTs, how to be a full stack developer
+How to reach me: https://www.linkedin.com/in/farjmand-zara/
+Pronouns: She/Her
