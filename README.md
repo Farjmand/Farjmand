@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-I'm currently working on a hotel booking app for rooms reservations.
-I'm currently learning blockchain architecture
-I'm looking to collaborate on open source projects
+I'm currently working on a hotel booking app for rooms reservations. </br>
+I'm currently learning blockchain architecture </br>
+I'm looking to collaborate on open source projects </br>
 Ask me about blockchain, NFTs, how to be a full stack developer
 How to reach me: https://www.linkedin.com/in/farjmand-zara/
 Pronouns: She/Her
