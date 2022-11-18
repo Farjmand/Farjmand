@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **Farjmand Zara**. A software engineer and blockchain entusiast. </br>
+I am **Farjmand Zara**. A software engineer and blockchain enthusiast. </br>
 
 
 :office: I'm currently working on a **hotel booking app** for rooms reservations. </br>
