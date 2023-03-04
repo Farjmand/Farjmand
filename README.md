@@ -20,7 +20,7 @@ I am **Farjmand Zara**. A software engineer and blockchain enthusiast. </br>
 
 :office: I'm currently working on a **hotel booking app** for rooms reservations. </br>
 
-:bookmark_tabs: I'm currently learning blockchain architecture </br>
+:bookmark_tabs: I'm currently learning RUST LANG </br>
 
 :busts_in_silhouette: I'm looking to collaborate on open source projects </br>
 
