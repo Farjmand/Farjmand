@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am **Farjmand Zara**. A software engineer and blockchain enthusiast. </br>
 
 
-:office: I'm currently working on a **Advent of Code 2022** using Rust. </br>
+:office: I'm currently solving **Advent of Code 2022** puzzles using Rust. </br>
 
 :bookmark_tabs: I'm currently learning RUST </br>
 
