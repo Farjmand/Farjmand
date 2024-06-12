@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I am **Farjmand Zara**. A software engineer and blockchain enthusiast. </br>
 
 
-:office: I'm currently working on a **hotel booking app** for rooms reservations. </br>
+:office: I'm currently working on a **Advent of Code 2022** using Rust. </br>
 
-:bookmark_tabs: I'm currently learning RUST LANG </br>
+:bookmark_tabs: I'm currently learning RUST </br>
 
 :busts_in_silhouette: I'm looking to collaborate on open source projects </br>
 
