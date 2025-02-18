@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 I am **Farjmand Zara**. A software engineer and blockchain enthusiast. </br>
 
 
-:office: I'm currently solving **Advent of Code 2022** puzzles using Rust. </br>
+:office: I'm currently optimizing alogrithms to control distributed energy resources 
+          like heatpumps, electric vehicles, solar inverters and wallboxes to deliver 25% savings to customers </br>
+
+:office: I'm also solving **Advent of Code 2024** puzzles using Rust every now and then. I am learning how to build npm packages </br>
 
 :bookmark_tabs: I'm currently learning RUST </br>
 
